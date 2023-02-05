@@ -6,8 +6,8 @@ Share over retain knowledge  </br>
 
 
 <p align="center">
-  <a href="https://youtu.be/fdbJTxaNF9I?t=126">
-    <img  width="65%" height="20%" src="https://raw.githubusercontent.com/BrenoJesusFernandes/brenojesusfernandes/main/img/to%20take%20away%20the%20pain.webp"> </br>
+  <a href="https://youtu.be/xPr0BfEcaCQ">
+    <img  width="65%" height="20%" src="https://raw.githubusercontent.com/BrenoJesusFernandes/brenojesusfernandes/main/img/smiles-from-juran.webp"> </br>
   </a>
   <i>"It was that somehow, from within the derelict-horror, </br>
       they had learned a way to see inside an ugly broken thing... </br>
