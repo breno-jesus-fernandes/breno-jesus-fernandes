@@ -1,8 +1,8 @@
 ##  Just a problem solver ... :bulb:
 
-Simplicity over complexity </br>
-Quality over speed  </br>
-Share over retain knowledge  </br>
+- Simplicity over complexity </br>
+- Quality over speed  </br>
+- Share over retain knowledge  </br>
 
 
 <p align="center">
