@@ -23,7 +23,7 @@
   <a href="https://in.linkedin.com/in/breno-jesus-fernandes" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="breno-jesus-fernandes"/></a> 
   <a href="https://breno-jesus-fernandes.github.io/" target="blank"><img src="https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="brenojesusfernandes" /></a>
   <a href="https://kaggle.com/brenojesusfernandes" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="brenojesusfernandes"  /></a> 
-  <a href="https://brenojesusfernandes.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="brenojesusfernandes" /></a> 
+  <a href="https://medium.com/@breno.de.jesus.fernandes" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="brenojesusfernandes" /></a> 
  </a> 
 </p>  
 
