@@ -17,14 +17,6 @@
 
 ---
 
-<p align="center">
-   <img  width="65%" height="20%" src="https://random-image-085602ecbbfb.herokuapp.com/random-image"> </br>
-  </a>
-  <i>
-    Dream
-  </i> </br></br>
-</p>
-
 <p></br></p>
 <p align="center">
   <a href="https://in.linkedin.com/in/breno-jesus-fernandes" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="breno-jesus-fernandes"/></a> 
