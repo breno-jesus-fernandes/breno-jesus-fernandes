@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-   <img  width="65%" height="20%" src="https://random-image-085602ecbbfb.herokuapp.com/random-image.jpg"> </br>
+   <img  width="65%" height="20%" src="https://random-image-085602ecbbfb.herokuapp.com/random-image"> </br>
   </a>
   <i>
     Dream
