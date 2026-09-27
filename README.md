@@ -32,13 +32,11 @@ I am a problem solver and a highly skilled professional driven by simplifying co
 
 # 📚 Some cool stuff
 
-- The Mom Test - Rob Fitzpatrick
-
 - Fooled by Randomness - Nassim Taleb
-
-- The Logic of Scientific Discovery - Karl Pooper
-
 - Practical Statistics for Data Scientists - Peter Bruce
+- The Mom Test - Rob Fitzpatrick
+- How to Win Friends and Influence People - Dale Carnegie
+- The Logic of Scientific Discovery - Karl Pooper
 
 ---
 
