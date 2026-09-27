@@ -1,17 +1,18 @@
 
 # 🙋🏻‍♂️ About me
 
-I'm just a problem solver, a highly skilled professional with a passion for simplifying complex processes, delivering high-quality work, and sharing knowledge with others. 🍃 :bulb:
+I am a problem solver and a highly skilled professional driven by simplifying complex processes, delivering high-impact work, and sharing knowledge. 🍃 💡
 
 # 🔥 My Specialties
 
-- Analytical Thinking
-- High Impact Work Delivery
-- Adaptability
+- Structuring complex problems
+- Validating data-driven hypotheses
+- Conducting deep analytical models
 
-# 📝 Experience Projects 
-- Generative AI (LLMs)
-- NLP (Classification and Sentiment Analysis)
+# 📝 Experience in Projects 
+- Supervised Machine Learning for Credit Recovery
+- Unsupervised Learning & Data Exploration
+- AI Agents Orchestration and Governance
 
 # 🗡 My Tools
 - SQL
@@ -19,13 +20,13 @@ I'm just a problem solver, a highly skilled professional with a passion for simp
 - Excel
 
 # 📜 Certifications
-- AWS Certified Machine Learning Specialty - ⏳ In progress
-- Microsoft Certified: Azure Data Scientist Associate - ⏳ In progress
-- Google Cloud Professional Machine Learning Engineer - ⏳ In progress
+- AWS Certified Machine Learning Engineer – Associate - ✅ DONE
+- AWS Certified AI Practitioner - ✅ DONE
+- AWS Certified Cloud Practitioner - ✅ DONE
 
 # 💆🏻‍♂️ Hobbies
 
-- Mountain Bike
+- Riding Bike
 - Roller Skating
 - Draw
 
